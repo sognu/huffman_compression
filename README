@@ -1,0 +1,10 @@
+****************
+Huffman compression implementation 
+****************
+
+README		- This file
+
+#  source files
+HuffmanTree     {.java}                         - Primary source code
+HuffmanAnalysis, CompressionDemo {.java}	- Testing code
+BitInputStream, BitOutPutStream  {.java}        - Utility code
